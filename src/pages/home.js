@@ -58,7 +58,7 @@ function Home() {
             <h2 className="text-white font-bold text-2xl flex items-center">
               Articles
             </h2>
-            <div class="relative flex justify-end items-center">
+            <div class="relative flex md:justify-end items-center">
               <input
                 type="search"
                 class="dark:bg-gray-800 shadow rounded border-0 p-3 focus:outline-none focus:border-sky-500 focus:ring-1 focus:ring-sky-500 text-white"
